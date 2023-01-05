@@ -13,8 +13,10 @@ h2 {
 
 body {
   float:left;
+  width:80%;
   margin-right: 500px;
-  margin-left:200px
+  margin-left:200px;
+  background-color: cornsilk;
 
 }
 p {
@@ -23,7 +25,8 @@ p {
 
 img {
   float:left;
-  
+  width:500px;
+  top:0;
 }
 
 .sidebar {

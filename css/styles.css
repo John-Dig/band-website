@@ -13,11 +13,17 @@ h2 {
 
 body {
   float:left;
+  margin-right: 500px;
+  margin-left:200px
 
+}
+p {
+  
 }
 
 img {
-  float:inline-end;
+  float:left;
+  
 }
 
 .sidebar {
